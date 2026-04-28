@@ -78,34 +78,34 @@ By the end of the program, students are expected to:
 
 ## Monthly Breakdown (General Framework)
 
-### June — Foundations
+### July — Foundations
 
 * Core neuroscience concepts
 * Modality-specific principles
 * Biological and physical underpinnings
 
-### July — Data Acquisition & Experimental Design
+### August — Data Acquisition & Experimental Design
 
 * Instrumentation and setup
 * Signal quality considerations
 * Ethics in human and animal research
 * Designing reproducible experiments
 
-### August — Data Analysis & Tools
+### September — Data Analysis & Tools
 
 * Introduction to analysis pipelines
 * Software tools and workflows
 * Signal processing and statistical methods
 * Practical exercises with datasets
 
-### September — Scientific Writing
+### October — Scientific Writing
 
 * Topic selection and scoping
 * Literature review techniques
 * Structuring a scientific paper
 * Drafting key sections (Introduction, Methods, Results, Discussion)
 
-### October — Finalization & Presentation
+### November — Finalization & Presentation
 
 * Editing and peer review
 * Final paper submission
