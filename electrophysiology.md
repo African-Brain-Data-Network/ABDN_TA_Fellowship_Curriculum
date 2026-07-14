@@ -1,48 +1,81 @@
 # Electrophysiology Curriculum (ABDN TA)
+July – December 2026 |  Virtual (Zoom)  |  5 Months 
 
-## Overview
-Focus: Cellular and Systems Neuroscience Recording
+---
+# Overview
+This curriculum covers the foundations and practical applications of electrophysiology for early-career African neuroscientists. It is designed to guide participants from introductory neuroscience concepts to recording techniques, experimental design, data analysis, and paper writing, while keeping available resources into consideration. 
+A central goal of the course is to empower African scientists with practical knowledge and accessible tools that they can use to advance their own scientific careers independently during and after the fellowship. Participants will receive an introduction to neuroscience and electrophysiological recording methods, learn how neural data can be modeled and analyzed, and explore open-source tools and resources that make neuroscience research more accessible and reproducible.
+The curriculum also emphasizes the broader skills required to become an independent researcher, including how to identify and refine research questions, design experiments, navigate ethical considerations, responsibly use AI tools in research, and find appropriate datasets for analysis. In addition, participants will learn strategies for finding and evaluating scientific literature, building collaborative networks, seeking mentorship or technical support when challenges arise, and engaging with the wider neuroscience community.
+Finally, the course introduces practical aspects of scientific publishing, including selecting an appropriate journal, understanding the publication process, and developing effective scientific writing skills to communicate research findings clearly and professionally.
+--
+# Focus
+Developing practical, transferable skills that participants can continue to apply independently after the fellowship. The programme focuses on empowering early-career researchers to take initiative in designing research questions, working with open-source neuroscience tools and datasets, analysing electrophysiological data, building collaborative networks, and communicating their findings through scientific writing and publication.
+
+# Goals
+By the end of the programme, participants will be able to:
+- Understand core principles of systems neuroscience and electrophysiology
+- Design basic neuroscience experiments with appropriate controls and structure
+- Acquire, preprocess, and analyse electrophysiological data using open-source tools
+- Identify and critically evaluate scientific literature
+- Formulate a research question and align it with available datasets
+- Produce structured scientific writing suitable for publication
+- Navigate the peer review and journal submission process
+- Use AI tools responsibly for coding, writing, and research support
+- Independently continue research using open datasets and open tools
 
 ---
 
-## June — Foundations
-**Learning Objective:** Understand electrical properties of neurons  
+## Module 1 — Introduction to Electrophysiology
+**Learning Objective:** Understand the electrical properties of neurons and the principles underlying electrophysiological measurement.
 
-- Week 1: Neuron Structure  
-- Week 2: Membrane Potentials  
-- Week 3: Ion Channels  
-- Week 4: Synaptic Transmission  
-
+- Week 0: Prepare a 5 minute slide presentation about yourself, your interests and goals for the ABDN programme
+- Week 1 22nd of July:  Introduction to each other - Meet the Mentees
+- Week 2 29th of July:  Brief introduction to Neuroscience
+- TO DO: WHAT SURPRISED YOU THE MOST? 
+- Week 3 5th of August: Recording techniques used in Neuroscience
+-  TO DO: Pick your preferred scientific recording technique and justify why, 1 paragraph
+- Week 4 12th of August: Introduction to computational models of neural systems
+- TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or Brian
 ---
 
-## July — Recording Techniques
+## Module 2 — Experimental Design
 **Learning Objective:** Learn electrophysiology methods  
 
-- Week 1: Patch Clamp Basics  
-- Week 2: Intracellular Recording  
-- Week 3: Extracellular Recording  
-- Week 4: Experimental Design  
+- Week 1: Introduction to searching Literature
+- TO DO: Find a few topics you are interested in and bring 3–5 papers to discuss next session
+- Week 2: Experimental Design & finding a research question; group students into 3 teams based on interests
+- TO DO: Draft a one-page experimental design for a proposed study, including research question, model/dataset choice, and ethical considerations
+- Week 3: Ethics & AI Usage
+- Week 4: Find right dataset
+- Week 5: How to reach out to people if you get stuck  
 
 ---
 
-## August — Data Analysis
+## Module 3 — Data Analysis
 **Learning Objective:** Analyze electrophysiological signals  
 
 - Week 1: Spike Detection  
 - Week 2: Signal Filtering  
-- Week 3: Data Interpretation  
-- Week 4: Software Tools  
+- Week 3: Data Interpretation, ERPs & dimensionality reduction 
+- Week 4: Software Tools Deep Dive & Reproducibility workflows  
 
 ---
 
-## September — Paper Writing
+## Module 4 — Scientific Writing – Literature Review
+**Learning Objective:**  Develop skills in scientific literature synthesis and begin drafting a structured literature review focused on a neural signalling topic relevant to African populations
 
-- Topics in neural signaling disorders  
-- Literature review  
+- Week 1: Process of picking a journal and publishing a paper
+- Week 2: Reading & Synthesising Papers 
+- Week 3: Structuring the Literature Review 
+- Week 4: Writing the First Draft  
 
 ---
 
-## October — Finalizing Paper
+## Module 5 — Finalizing the Paper
+**Learning Objective:** Revise, peer-review, and produce a submission-ready draft of the literature review or short research paper, ready for journal submission or posting as a preprint.
 
-- Editing, peer review, and submission  
+- Week 1: Peer Review Within the Group  
+- Week 2: Revision & Responding to Feedback  
+- Week 3: Continue to work on your paper 
+- Week 4: Final Submission & Programme Wrap-Up
 
