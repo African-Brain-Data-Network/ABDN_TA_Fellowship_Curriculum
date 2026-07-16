@@ -28,29 +28,29 @@ By the end of the programme, participants will be able to:
 ## Module 1 — Introduction to Electrophysiology
 **Learning Objective:** Understand the electrical properties of neurons and the principles underlying electrophysiological measurement.
 
-_ _TO DO: Prepare a 5 minute slide presentation about yourself, your interests and goals for the ABDN programme_ _
+_TO DO: Prepare a 5 minute slide presentation about yourself, your interests and goals for the ABDN programme_ _
 - Week 1 22nd of July:  Introduction to each other - Meet the Mentees
 - Week 2 29th of July:  Brief introduction to Neuroscience
-_ _TO DO: WHAT SURPRISED YOU THE MOST?_ _ 
+_TO DO: WHAT SURPRISED YOU THE MOST?_ _ 
 - Week 3 5th of August: Recording techniques used in Neuroscience
-_ _TO DO: Pick your preferred scientific recording technique and justify why, 1 paragraph_ _
+_TO DO: Pick your preferred scientific recording technique and justify why, 1 paragraph_ _
 - Week 4 12th of August: Introduction to computational models of neural systems
-_ _TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or Brian_ _
+_TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or Brian_ _
 ---
 
 ## Module 2 — Experimental Design
 **Learning Objective:** Learn electrophysiology methods  
 
 - Week 1: Introduction to searching Literature
-_ _TO DO: Find a few topics you are interested in and bring 3–5 papers to discuss next session_ _
+_TO DO: Find a few topics you are interested in and bring 3–5 papers to discuss next session_ _
 - Week 2: Experimental Design & finding a research question; group students into 3 teams based on interests
-_ _TO DO: Draft a one-page experimental design for a proposed study, including research question, model/dataset choice, and ethical considerations_ _
+_TO DO: Draft a one-page experimental design for a proposed study, including research question, model/dataset choice, and ethical considerations_ _
 - Week 3: Ethics & AI Usage
-_ _TO DO: Revisit your experimental design from Week 2 – consider your LLM usage strategy and identify any ethical considerations specific to your proposed study_
+_TO DO: Revisit your experimental design from Week 2 – consider your LLM usage strategy and identify any ethical considerations specific to your proposed study_
 - Week 4: Find right dataset
-_ _TO DO: Find a dataset that would be useful to answer the research question we have developed, write a brief justification (half a page) including why this dataset fits your question_
+_TO DO: Find a dataset that would be useful to answer the research question we have developed, write a brief justification (half a page) including why this dataset fits your question_
 - Week 5: How to reach out to people if you get stuck
-_ _TO DO: Write two example emails: one to a dataset owner asking a technical question, and one to a potential mentor or collaborator_
+_TO DO: Write two example emails: one to a dataset owner asking a technical question, and one to a potential mentor or collaborator_
 
 ---
 
@@ -68,13 +68,13 @@ _ _TO DO: Write two example emails: one to a dataset owner asking a technical qu
 **Learning Objective:**  Develop skills in scientific literature synthesis and begin drafting a structured literature review focused on a neural signalling topic relevant to African populations
 
 - Week 1: Process of picking a journal and publishing a paper
-_ _TO DO: Pick a journal that best fits your current research project; write down 3 potential questions reviewers might ask you_
+_TO DO: Pick a journal that best fits your current research project; write down 3 potential questions reviewers might ask you_
 - Week 2: Reading & Synthesising Papers
-_ _TO DO: Complete a synthesis matrix for your 10 references, identifying at least 2 research gaps_
+_TO DO: Complete a synthesis matrix for your 10 references, identifying at least 2 research gaps_
 - Week 3: Structuring the Literature Review 
-_ _TO DO: Submit a full outline + written introduction paragraph (250–300 words)_ 
+_TO DO: Submit a full outline + written introduction paragraph (250–300 words)_ 
 - Week 4: Writing the First Draft  
-_ _TO DO: Submit full first draft of literature review_
+_TO DO: Submit full first draft of literature review_
 ---
 
 ## Module 5 — Finalizing the Paper
