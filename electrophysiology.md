@@ -28,14 +28,14 @@ By the end of the programme, participants will be able to:
 ## Module 1 — Introduction to Electrophysiology
 **Learning Objective:** Understand the electrical properties of neurons and the principles underlying electrophysiological measurement.
 
-_TO DO: Prepare a 5 minute slide presentation about yourself, your interests and goals for the ABDN programme_ _
+_TO DO: Prepare a 5 minute slide presentation about yourself, your interests and goals for the ABDN programme_
 - Week 1 22nd of July:  Introduction to each other - Meet the Mentees
 - Week 2 29th of July:  Brief introduction to Neuroscience
-_TO DO: WHAT SURPRISED YOU THE MOST?_ _ 
+_TO DO: WHAT SURPRISED YOU THE MOST?_ 
 - Week 3 5th of August: Recording techniques used in Neuroscience
-_TO DO: Pick your preferred scientific recording technique and justify why, 1 paragraph_ _
+_TO DO: Pick your preferred scientific recording technique and justify why, 1 paragraph_
 - Week 4 12th of August: Introduction to computational models of neural systems
-_TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or Brian_ _
+_TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or Brian_
 ---
 
 ## Module 2 — Experimental Design
@@ -44,7 +44,7 @@ _TO DO: Short modelling exercise using a beginner-friendly tutorial in NEURON or
 - Week 1: Introduction to searching Literature
 _TO DO: Find a few topics you are interested in and bring 3–5 papers to discuss next session_ _
 - Week 2: Experimental Design & finding a research question; group students into 3 teams based on interests
-_TO DO: Draft a one-page experimental design for a proposed study, including research question, model/dataset choice, and ethical considerations_ _
+_TO DO: Draft a one-page experimental design for a proposed study, including research question, model/dataset choice, and ethical considerations_
 - Week 3: Ethics & AI Usage
 _TO DO: Revisit your experimental design from Week 2 – consider your LLM usage strategy and identify any ethical considerations specific to your proposed study_
 - Week 4: Find right dataset
@@ -54,17 +54,7 @@ _TO DO: Write two example emails: one to a dataset owner asking a technical ques
 
 ---
 
-## Module 3 — Data Analysis
-**Learning Objective:** Analyze electrophysiological signals  
-
-- Week 1: Spike Detection  
-- Week 2: Signal Filtering  
-- Week 3: Data Interpretation, ERPs & dimensionality reduction 
-- Week 4: Software Tools Deep Dive & Reproducibility workflows  
-
----
-
-## Module 4 — Scientific Writing – Literature Review
+## Module 3 — Scientific Writing – Literature Review
 **Learning Objective:**  Develop skills in scientific literature synthesis and begin drafting a structured literature review focused on a neural signalling topic relevant to African populations
 
 - Week 1: Process of picking a journal and publishing a paper
@@ -75,6 +65,17 @@ _TO DO: Complete a synthesis matrix for your 10 references, identifying at least
 _TO DO: Submit a full outline + written introduction paragraph (250–300 words)_ 
 - Week 4: Writing the First Draft  
 _TO DO: Submit full first draft of literature review_
+---
+
+
+## Module 3 — Data Analysis
+**Learning Objective:** Analyze electrophysiological signals  
+
+- Week 1: Spike Detection  
+- Week 2: Signal Filtering  
+- Week 3: Data Interpretation, ERPs & dimensionality reduction 
+- Week 4: Software Tools Deep Dive & Reproducibility workflows  
+
 ---
 
 ## Module 5 — Finalizing the Paper
